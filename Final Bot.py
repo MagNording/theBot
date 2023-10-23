@@ -28,7 +28,7 @@ def count():
     curr = 0
     while curr <= num:
         print(curr, '!')
-        curr = curr + 1
+        curr += 1
 
 
 def test():
